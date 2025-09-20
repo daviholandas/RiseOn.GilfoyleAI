@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Gilfoyle.Agents/Gilfoyle.Agents.csproj" />
+    <Project Path="src/GilfoyleAI.ApiService/GilfoyleAI.ApiService.csproj" />
+    <Project Path="src/GilfoyleAI.AppHost/GilfoyleAI.AppHost.csproj" />
+    <Project Path="src/GilfoyleAI.ServiceDefaults/GilfoyleAI.ServiceDefaults.csproj" />
+  </Folder>
+</Solution>
